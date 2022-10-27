@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Polinkhan
-- 👀 I’m interested in Full Stack Development and Machine learning 
+- 👀 I’m interested in Full Stack Development, Problem Solving and Machine learning 
 - 🌱 I’m currently learning Mern Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
